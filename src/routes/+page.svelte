@@ -13,6 +13,5 @@ import FaQs from "../components/FAQs.svelte";
     <Reviews/>
     <FaQs/>
     <Conversion/>
-    <Footer/>
   
 </main>
